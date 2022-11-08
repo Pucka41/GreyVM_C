@@ -1,0 +1,3 @@
+C:/.self-project/GreyVM_C/cmake-build-debug/CMakeFiles/GreyVM_C.dir
+C:/.self-project/GreyVM_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/.self-project/GreyVM_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
